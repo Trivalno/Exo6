@@ -22,7 +22,7 @@ namespace Exo6
             //boucle test moyenne affichege mention
             if(moyenne < 10)
             {
-                Console.Write("grosse merdeca pu la merde");
+                Console.Write("grosse merde ca pu la merde");
 
             }
             else
