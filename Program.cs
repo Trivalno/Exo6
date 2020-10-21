@@ -22,30 +22,30 @@ namespace Exo6
             //boucle test moyenne affichege mention
             if(moyenne < 10)
             {
-                Console.Write("Recallé");
+                Console.Write("grosse merdeca pu la merde");
 
             }
             else
             {
                 if(moyenne < 12)
                 {
-                    Console.WriteLine("Passable");
+                    Console.WriteLine("ok");
                 }
                 else
                 {
                     if(moyenne < 14)
                     {
-                        Console.WriteLine("Assez bien");
+                        Console.WriteLine("cool");
                     }
                     else
                     {
                         if (moyenne < 16)
                         {
-                            Console.WriteLine("Bien");
+                            Console.WriteLine("giga bien");
                         }
                         else
                         {
-                            Console.WriteLine("Tres bien");
+                            Console.WriteLine("enorme");
                         }
                     }
                         
